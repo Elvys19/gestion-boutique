@@ -1,0 +1,30 @@
+# Java
+*.class
+target/
+bin/
+out/
+
+# Maven
+dependency-reduced-pom.xml
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+release.properties
+
+# IDE
+.vscode/
+.idea/
+*.iml
+.settings/
+.project
+.classpath
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# SQL backups? maybe not needed if tracked
+# But target is build output
